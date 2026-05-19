@@ -26,14 +26,5 @@ jobs:
           plugin_languages_ignored: html, css, jupyter notebook
           plugin_languages_details: bytes-size, percentage
 
-          # 3. 깃허브 업적 뱃지 모음 → Projects Classic API 폐기로 제거
-          # plugin_achievements: yes
-
-          # 4. 코딩 습관 (facts 끄기 → author undefined 크래시 우회)
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-
           # 5. 코드 총 라인 수
           plugin_lines: yes
