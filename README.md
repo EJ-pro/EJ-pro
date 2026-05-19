@@ -113,27 +113,31 @@ career_focus = {
 <br>
 <h2 align="center">🌟 Projects 🌟</h2>
 
-### 🧠 AI & LLM
+### AI & LLM
 
-**[PokeWorld (너로 정했다! LLM)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)**<br>
-<small>지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼</small><br>
+**[LLM Project (너로 정했다! LLM)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)**
+>지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼
+
 <small>9-노드 기반 RAG 추천 파이프라인 · Self-Correction SQL 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small><br>
 <small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL (pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
 
-**[KKBox Churn Prediction](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)**<br>
-<small>머신러닝 기반 음악 스트리밍 플랫폼 Churn(구독 이탈) 예측 및 시뮬레이션 대시보드</small><br>
+**[ML Project (KKBox Churn Prediction)](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)**<br>
+>머신러닝 기반 음악 스트리밍 플랫폼 Churn(구독 이탈) 예측 및 시뮬레이션 대시보드
+
 <small>XGBoost/LightGBM Churn 예측 모델 · Streamlit & Plotly 기반 Action Board 대시보드 · MySQL DB 연동 및 Docker 환경 구축</small><br>
-<small><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Plotly</code> <code>MySQL</code> <code>Docker</code></small><br><br>
+<small><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Plotly</code> <code>MySQL</code> <code>Docker</code></small><br>
 
-### 📱 Mobile & Service
+### Mobile & Service
 
-**[Collobo Station](https://github.com/EJ-pro/Collobo-Station)**<br>
-<small>개발자와 디자이너 간의 프로젝트 기반 매칭 및 협업 모바일 플랫폼</small><br>
+**[Mobile Project (Collobo Station)](https://github.com/EJ-pro/Collobo-Station)**<br>
+>개발자와 디자이너 간의 프로젝트 기반 매칭 및 협업 모바일 플랫폼
+
 <small>Firebase Auth 보안 인증 · Firestore 실시간 데이터 공유 · 바텀 네비게이션 및 리사이클러뷰 UI/UX 최적화</small><br>
 <small><code>Kotlin</code> <code>Android SDK</code> <code>Firebase (Auth/Firestore)</code> <code>Gradle</code></small><br><br>
 
-**[Smart Pot](https://github.com/EJ-pro/smartpot)**<br>
-<small>안드로이드 기반의 식물 다이어리 및 IoT 하드웨어 연동 관리 애플리케이션</small><br>
+**[Mobile Project (Smart Pot)](https://github.com/EJ-pro/smartpot)**<br>
+>안드로이드 기반의 식물 다이어리 및 IoT 하드웨어 연동 관리 애플리케이션
+
 <small>Kakao OAuth 간편 로그인 연동 · Android SDK 34 마이그레이션 · Gradle 빌드 최적화 및 SQLite 로컬 데이터베이스 제어</small><br>
 <small><code>Java/Kotlin</code> <code>Android SDK</code> <code>Kakao SDK</code> <code>SQLite</code> <code>Gradle</code></small><br><br><br>
 
