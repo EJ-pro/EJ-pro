@@ -5,11 +5,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ej-pro&color=7DF9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ej-pro&color=7b2cbf&style=flat-square&label=VISITORS" alt="Visitors" />
   &nbsp;
-  <a href="https://ejpro.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" /></a>
+  <a href="https://ejpro.tistory.com/"><img src="https://img.shields.io/badge/Blog-EA5414?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" /></a>
   &nbsp;
-  <a href="mailto:hsshss2522@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hsshss2522@naver.com"><img src="https://img.shields.io/badge/Contact-1E90FF?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
