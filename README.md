@@ -1,55 +1,64 @@
 <div align="center">
+  <img src="./github_header2.png?raw=true" width="100%" alt="Header Banner" />
+</div>
 
-<img src="https://github.com/EJ-pro/EJ-pro/blob/main/github_header.png?raw=true" width="100%" />
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ej-pro&color=7DF9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <a href="https://ejpro.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" /></a>
+  &nbsp;
+  <a href="mailto:hsshss2522@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ej-pro&color=7DF9FF&style=flat-square&label=PROFILE+VIEWS)
+**"구현은 기본, 성능 검증이 본질."**<br/>
+**평가 기준을 설계하고 개선을 반복하는 실무형 AI 엔지니어를 목표로 합니다.**
+
+서비스 전체 구조를 이해하는 탄탄한 개발 역량을 바탕으로, 실제 운영 환경에서 안정적으로 동작하는 AI·LLM 시스템을 설계합니다.<br/>
+단순 API 연동을 넘어 정량적 지표 기반의 모델 평가(Evaluation)와 파이프라인 최적화에 집중하며,<br/>
+현재 SK Networks Family AI Camp에서 LLM 및 Multi-Agent 기반 업무 자동화 시스템 구축에 주력하고 있습니다.
 
 </div>
 
 ---
 
-<div align="center">
+## Tech Stack
 
-```
-Android 개발자로 시작해 AI · LLM으로 전향 중인 개발자입니다.
-아이디어를 실제 서비스로 구현하는 것을 좋아하고,
-창업동아리 팀장으로 18건의 경진대회 수상 경험을 쌓았습니다.
-현재 SK Networks Family AI Camp 27기에서 LLM · Multi-Agent를 깊게 파고 있습니다.
-```
+### AI & LLM
+<details open>
+<summary><b>LLM & Multi-Agent</b></summary>
+<br/>
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7DF9FF?style=flat-square&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-333333?style=flat-square&logoColor=white)
 
----
+</details>
 
-## 🧠 AI / LLM Stack
+<details open>
+<summary><b>Data Science & ML</b></summary>
+<br/>
 
-<div align="center">
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7DF9FF?style=for-the-badge&logoColor=black)
+</details>
 
-</div>
-
----
-
-## 🛠 Full Stack
-
+### Frontend & Mobile
 <details>
-<summary><b>📱 Frontend / Mobile</b></summary>
+<summary><b>상세 보기</b></summary>
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -64,114 +73,73 @@ Android 개발자로 시작해 AI · LLM으로 전향 중인 개발자입니다.
 
 </details>
 
+### Backend & Database
 <details>
-<summary><b>🔧 Backend / Database</b></summary>
+<summary><b>상세 보기</b></summary>
 <br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </details>
 
+### DevOps & Tools
 <details>
-<summary><b>🚀 Cloud / Deployment</b></summary>
+<summary><b>상세 보기</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 </details>
 
 ---
 
-## 📖 Currently Deep-Diving
+## Currently Focusing On
 
 ```python
-current_focus = {
-    "LLM"      : ["Multi-Agent 설계", "MCP 기반 에이전트 협업", "RAG 고도화"],
-    "ML"       : ["모델 평가 지표", "파인튜닝", "피처 엔지니어링"],
-    "Camp"     : "SK Networks Family AI Camp 27th 🔥",
-    "goal"     : "LLM Engineer @ AI-first company"
+career_focus = {
+    "LLM_Engineering"  : ["Multi-Agent 아키텍처 설계", "MCP(Model Context Protocol) 연동", "고급 RAG 파이프라인 구축"],
+    "Machine_Learning" : ["모델 성능 평가 및 최적화", "도메인 특화 파인튜닝", "피처 엔지니어링"],
+    "Current_Program"  : "SK Networks Family AI Camp 27th",
+    "Professional_Goal": "사용자의 실질적 가치를 창출하는 AI/LLM 엔지니어"
 }
 ```
 
 ---
 
-## 🏆 수상 하이라이트
+## Projects
 
-| 연도 | 대회 | 수상 | 주관 |
-|:---:|:---|:---:|:---:|
-| 2025 | 인력양성 성과공유회 캡스톤디자인 | 실용가치상 | 목원대학교 |
-| 2024 | 진로 포트폴리오 경진대회 | **최우수상 🥇** | 목원대학교 |
-| 2024 | 스타트업 코리아 투자위크 모의 IR | **우수상** | 중소벤처기업부·대전광역시 |
-| 2024 | 글로벌 스타트업스쿨 캠프 | **Leadership상** | 한남대학교 |
-| 2024 | 모빌리티 드론코딩 경진대회 | **최우수상 🥇** | 목원대학교 |
-| 2024 | 산학협력 캡스톤디자인 논문 경진대회 | **우수상** | 한국콘텐츠학회 |
-| 2023 | 캡스톤디자인 내부경진대회 | **최우수상 🥇** | 목원대학교 |
-| 2023 | 대전 스타트업 스쿨 | **우수상** | 대전창조경제혁신센터 |
-
-> 교내외 경진대회 누적 **18관왕** 🏅
-
----
-
-## 🚀 Projects
-
-### 🤖 AI / LLM
-| 프로젝트 | 설명 | 스택 |
+### AI & LLM
+| 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
-| SK AI Camp 최종 프로젝트 | 다중 에이전트 기반 업무자동화 시스템 | LangGraph · MCP · RAG |
+| **SK AI Camp 최종 프로젝트** | • LangGraph와 MCP(Model Context Protocol)를 연동한 다중 에이전트(Multi-Agent) 기반 업무 자동화 파이프라인 구축<br>• 도메인 특화 지식 검색 및 의사결정을 위한 RAG 시스템 고도화 | LangGraph, MCP, RAG |
+| **[SK AI Camp 3차 팀 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 지식 그래프(Neo4j)와 다중 에이전트를 결합한 GraphRAG 기반 맞춤형 추천·탐색 파이프라인 설계<br>• LLM 기반 어시스턴트(챗봇, AI 번역기) 및 풀스택 서비스 아키텍처 개발 | LangGraph, Neo4j (GraphRAG), FastAPI, Groq LLM |
+| **[SK AI Camp 2차 팀 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | 머신러닝 기반 데이터 분석 대시보드 개발 | Streamlit, Python, scikit-learn |
 
-### 📱 Android / Mobile
-| 프로젝트 | 설명 | 스택 |
+### Mobile & Service
+| 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
-| [Collobo Station](https://github.com/EJ-pro/Collobo-Station) | 개발자·디자이너 협업 매칭 플랫폼 | Kotlin · Firebase · Android |
-| [Smart Pot](https://github.com/EJ-pro/smartpot) | 스마트 화분 IoT 모니터링 앱 | Java · Firebase · IoT |
+| **[Collobo Station](https://github.com/EJ-pro/Collobo-Station)** | 개발자·디자이너 간의 효율적인 협업을 위한 매칭 플랫폼 | Kotlin, Android, Firebase |
+| **[Smart Pot](https://github.com/EJ-pro/smartpot)** | 실시간 센서 데이터를 활용한 IoT 스마트 화분 모니터링 서비스 | Java, Android, IoT, Firebase |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ej-pro&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=bd93f9&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej-pro&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=ffffff" />
+  <img src="https://github.com/EJ-pro/EJ-pro/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" style="max-width: 100%; height: auto;" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ej-pro&theme=radical&row=1&column=6&no-frame=true&margin-w=8" />
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-<a href="https://ejpro.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:hsshss2522@naver.com">
-  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"동작하는 것보다, 잘 동작하는 것을. 잘 동작하는 것보다, 의미 있는 것을."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
