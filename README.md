@@ -9,7 +9,7 @@
   &nbsp;
   <a href="https://ejpro.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" /></a>
   &nbsp;
-  <a href="mailto:hsshss2522@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Mail" /></a>
+  <a href="mailto:hsshss2522@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Mail" /></a>
 </div>
 
 <br/>
