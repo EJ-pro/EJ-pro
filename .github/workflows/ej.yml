@@ -26,3 +26,6 @@ jobs:
           
           # 디자인 테마 (light, dark 등)
           config_timezone: Asia/Seoul
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # 반년치 표시 (1년치를 보려면 full-year로 변경)
