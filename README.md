@@ -21,7 +21,7 @@
 
 서비스 전체 구조를 이해하는 탄탄한 개발 역량을 바탕으로, 실제 운영 환경에서 안정적으로 동작하는 AI·LLM 시스템을 설계합니다.<br/>
 단순 API 연동을 넘어 정량적 지표 기반의 모델 평가(Evaluation)와 파이프라인 최적화에 집중하며,<br/>
-현재 SK Networks Family AI Camp에서 LLM 및 Multi-Agent 기반 업무 자동화 시스템 구축에 주력하고 있습니다.
+현재 SK Networks Family AI Camp에서 LLM 및 Multi-Agent 학습에 주력하고 있습니다.
 
 </div>
 
@@ -124,8 +124,8 @@ career_focus = {
 ### AI & LLM
 | 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
-| **SK AI Camp 최종 프로젝트** | • LangGraph와 MCP(Model Context Protocol)를 연동한 다중 에이전트(Multi-Agent) 기반 업무 자동화 파이프라인 구축<br>• 도메인 특화 지식 검색 및 의사결정을 위한 RAG 시스템 고도화 | LangGraph, MCP, RAG |
-| **[SK AI Camp 3차 팀 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 지식 그래프(Neo4j)와 다중 에이전트를 결합한 GraphRAG 기반 맞춤형 추천·탐색 파이프라인 설계<br>• LLM 기반 어시스턴트(챗봇, AI 번역기) 및 풀스택 서비스 아키텍처 개발 | LangGraph, Neo4j (GraphRAG), FastAPI, Groq LLM |
+| **SK AI Camp 최종 프로젝트** | • ... | ... |
+| **[SK AI Camp 3차 팀 프로젝트 (PokeWorld)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 포켓몬 도메인 대상 GraphRAG(Neo4j) 및 Vector RAG(pgvector) 기반 하이브리드 추천 파이프라인 설계<br>• LangGraph 멀티 에이전트 기반의 9-노드 팀 빌더 및 Self-Correction SQL 챗봇 구축<br>• RAG 성능 정량 평가(Faithfulness 90%, Relevancy 92% 달성) 및 실시간 턴제 배틀 시뮬레이터 개발 | LangGraph, Neo4j, PostgreSQL (pgvector), FastAPI, Streamlit, Groq |
 | **[SK AI Camp 2차 팀 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker |
 
 ### Mobile & Service
