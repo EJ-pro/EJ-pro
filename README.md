@@ -19,7 +19,7 @@
 **"구현은 기본, 성능 검증이 본질."**<br/>
 **평가 기준을 설계하고 개선을 반복하는 실무형 AI 엔지니어를 목표로 합니다.**
 
-서비스 전체 구조를 이해하는 탄탄한 개발 역량을 바탕으로, 실제 운영 환경에서 안정적으로 동작하는 AI·LLM 시스템을 설계합니다.<br/>
+서비스 전체 구조를 이해하는 개발 역량을 바탕으로, 안정적으로 동작하는 AI시스템을 설계합니다.<br/>
 단순 API 연동을 넘어 정량적 지표 기반의 모델 평가(Evaluation)와 파이프라인 최적화에 집중하며,<br/>
 현재 SK Networks Family AI Camp에서 LLM 및 Multi-Agent 학습에 주력하고 있습니다.
 
@@ -117,7 +117,7 @@ career_focus = {
 
 **[LLM Project (너로 정했다! LLM)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** — 지식 그래프 + 다중 에이전트 하이브리드 RAG 추천 & 배틀 플랫폼
 >지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼<br>
-<small>9-노드 기반 RAG 추천 파이프라인 · Self-Correction SQL 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small><br>
+<small>RAG 추천 파이프라인 · 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small><br>
 
 <small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL (pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
 
