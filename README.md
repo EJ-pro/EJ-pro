@@ -138,3 +138,11 @@ career_focus = {
 <div align="center">
   <img src="https://github.com/EJ-pro/EJ-pro/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" style="max-width: 100%; height: auto;" />
 </div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ej-pro&theme=dracula&row=1&column=6&no-frame=true&margin-w=8" />
+</div>
+
+---
