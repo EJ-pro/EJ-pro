@@ -1,0 +1,28 @@
+name: EJ
+on:
+  # 매일 자정(UTC 기준)에 자동 실행
+  schedule: [{cron: "0 0 * * *"}]
+  # 내가 원할 때 수동으로 버튼을 눌러서 실행 가능
+  workflow_dispatch:
+  # 코드를 푸시할 때마다 실행
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-ej:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/ej@latest
+        with:
+          # 아까 등록한 시크릿 토큰 사용
+          token: ${{ secrets.EJ_TOKEN }}
+          
+          # 만들어질 파일 이름
+          filename: github-ej.svg
+          
+          # 표시할 기본 항목 설정 (헤더, 활동, 커뮤니티, 레포지토리, 메타데이터)
+          base: header, activity, community, repositories, metadata
+          
+          # 디자인 테마 (light, dark 등)
+          config_timezone: Asia/Seoul
