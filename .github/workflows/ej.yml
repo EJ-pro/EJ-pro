@@ -17,6 +17,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
           extras_css: |
+            a {
+              pointer-events: none;
+            }
             footer {
               padding-bottom: 60px !important;
             }
