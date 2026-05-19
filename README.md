@@ -110,7 +110,7 @@
 
 ```python
 career_focus = {
-    "LLM_Engineering"  : ["Multi-Agent 아키텍처 설계", "MCP(Model Context Protocol) 연동", "고급 RAG 파이프라인 구축"],
+    "LLM_Engineering"  : ["Multi-Agent 아키텍처 설계", "MCP 연동", "고급 RAG 파이프라인 구축"],
     "Machine_Learning" : ["모델 성능 평가 및 최적화", "도메인 특화 파인튜닝", "피처 엔지니어링"],
     "Current_Program"  : "SK Networks Family AI Camp 27th",
     "Professional_Goal": "사용자의 실질적 가치를 창출하는 AI/LLM 엔지니어"
@@ -124,9 +124,8 @@ career_focus = {
 ### AI & LLM
 | 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
-| **SK AI Camp 최종 프로젝트** | • ... | ... |
-| **[SK AI Camp 3차 팀 프로젝트 (PokeWorld)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 포켓몬 도메인 대상 GraphRAG(Neo4j) 및 Vector RAG(pgvector) 기반 하이브리드 추천 파이프라인 설계<br>• LangGraph 멀티 에이전트 기반의 9-노드 팀 빌더 및 Self-Correction SQL 챗봇 구축<br>• RAG 성능 정량 평가(Faithfulness 90%, Relevancy 92% 달성) 및 실시간 턴제 배틀 시뮬레이터 개발 | LangGraph, Neo4j, PostgreSQL (pgvector), FastAPI, Streamlit, Groq |
-| **[SK AI Camp 2차 팀 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker |
+| **[LLM 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 포켓몬 도메인 대상 GraphRAG(Neo4j) 및 Vector RAG(pgvector) 기반 하이브리드 추천 파이프라인 설계<br>• LangGraph 멀티 에이전트 기반의 9-노드 팀 빌더 및 Self-Correction SQL 챗봇 구축<br>• RAG 성능 정량 평가(Faithfulness 90%, Relevancy 92% 달성) 및 실시간 턴제 배틀 시뮬레이터 개발 | LangGraph, Neo4j, PostgreSQL (pgvector), FastAPI, Streamlit, Groq |
+| **[ML 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker |
 
 ### Mobile & Service
 | 프로젝트명 | 주요 내용 | 사용 기술 |
