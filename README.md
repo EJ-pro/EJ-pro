@@ -113,21 +113,29 @@ career_focus = {
 <br>
 <h2 align="center">🌟 Projects 🌟</h2>
 
-### AI & LLM
+### 🧠 AI & LLM
 
-| 프로젝트명                                                         | 주요 내용                                                                                                                                                                                                                                                                                | 사용 기술                                                         |
-| :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
-| **[LLM 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)**      | • 포켓몬 도메인 대상 GraphRAG(Neo4j) 및 Vector RAG(pgvector) 기반 하이브리드 추천 파이프라인 설계<br>• LangGraph 멀티 에이전트 기반의 9-노드 팀 빌더 및 Self-Correction SQL 챗봇 구축<br>• RAG 성능 정량 평가(Faithfulness 90%, Relevancy 92% 달성) 및 실시간 턴제 배틀 시뮬레이터 개발  | LangGraph, Neo4j, PostgreSQL (pgvector), FastAPI, Streamlit, Groq |
-| **[ML 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker                                  |
+**[PokeWorld (너로 정했다! LLM)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)**<br>
+<small>지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼</small><br>
+<small>9-노드 기반 RAG 추천 파이프라인 · Self-Correction SQL 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small><br>
+<small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL (pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
 
-### Mobile & Service
+**[KKBox Churn Prediction](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)**<br>
+<small>머신러닝 기반 음악 스트리밍 플랫폼 Churn(구독 이탈) 예측 및 시뮬레이션 대시보드</small><br>
+<small>XGBoost/LightGBM Churn 예측 모델 · Streamlit & Plotly 기반 Action Board 대시보드 · MySQL DB 연동 및 Docker 환경 구축</small><br>
+<small><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Plotly</code> <code>MySQL</code> <code>Docker</code></small><br><br>
 
-| 프로젝트명                                                                  | 주요 내용                                                                                                                                                                                                                                                                             | 사용 기술                                              |
-| :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------- |
-| **[개발자 & 디자이너 협업 App](https://github.com/EJ-pro/Collobo-Station)** | • 개발자와 디자이너 간의 프로젝트 매칭 및 효율적인 협업을 위한 모바일 플랫폼<br>• Firebase Firestore 기반의 실시간 데이터 공유 및 Firebase Authentication을 활용한 보안 인증 구현<br>• 바텀 네비게이션 및 리사이클러뷰 기반 커스텀 어댑터 설계를 통해 데이터 흐름 및 UI 접근성 최적화 | Kotlin, Android SDK, Firebase (Auth/Firestore), Gradle |
-| **[스마트 화분 App + 하드웨어 연동](https://github.com/EJ-pro/smartpot)**   | • 안드로이드 기반의 식물 성장 다이어리 및 맞춤형 관리 애플리케이션<br>• Kakao SDK를 연동한 OAuth 간편 로그인, 상점 기능 및 마이페이지 식물 목록 관리 기능 구현<br>• Android SDK 34 마이그레이션 및 Gradle 구성 최적화로 빌드 이슈 해결                                                | Java/Kotlin, Android SDK, Kakao SDK, Firebase, Gradle  |
+### 📱 Mobile & Service
 
-<br>
+**[Collobo Station](https://github.com/EJ-pro/Collobo-Station)**<br>
+<small>개발자와 디자이너 간의 프로젝트 기반 매칭 및 협업 모바일 플랫폼</small><br>
+<small>Firebase Auth 보안 인증 · Firestore 실시간 데이터 공유 · 바텀 네비게이션 및 리사이클러뷰 UI/UX 최적화</small><br>
+<small><code>Kotlin</code> <code>Android SDK</code> <code>Firebase (Auth/Firestore)</code> <code>Gradle</code></small><br><br>
+
+**[Smart Pot](https://github.com/EJ-pro/smartpot)**<br>
+<small>안드로이드 기반의 식물 다이어리 및 IoT 하드웨어 연동 관리 애플리케이션</small><br>
+<small>Kakao OAuth 간편 로그인 연동 · Android SDK 34 마이그레이션 · Gradle 빌드 최적화 및 SQLite 로컬 데이터베이스 제어</small><br>
+<small><code>Java/Kotlin</code> <code>Android SDK</code> <code>Kakao SDK</code> <code>SQLite</code> <code>Gradle</code></small><br><br><br>
 
 <h2 align="center">🌟 GitHub Stats 🌟</h2>
 
