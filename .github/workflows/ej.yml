@@ -1,4 +1,4 @@
-name: EJ
+name: Metrics
 on:
   # 매일 자정(UTC 기준)에 자동 실행
   schedule: [{cron: "0 0 * * *"}]
@@ -8,18 +8,18 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  github-ej:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/ej@latest
+      - uses: lowlighter/metrics@latest
         with:
           # 아까 등록한 시크릿 토큰 사용
           token: ${{ secrets.EJ_TOKEN }}
           
           # 만들어질 파일 이름
-          filename: github-ej.svg
+          filename: github-metrics.svg
           
           # 표시할 기본 항목 설정 (헤더, 활동, 커뮤니티, 레포지토리, 메타데이터)
           base: header, activity, community, repositories, metadata
