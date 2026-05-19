@@ -27,9 +27,9 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### AI & LLM
+### 🧠 AI & LLM
 <details open>
 <summary><b>LLM & Multi-Agent</b></summary>
 <br/>
@@ -45,7 +45,7 @@
 </details>
 
 <details open>
-<summary><b>Data Science & ML</b></summary>
+<summary><b>📊 Data Science & ML</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -56,7 +56,7 @@
 
 </details>
 
-### Frontend & Mobile
+### 📱 Frontend & Mobile
 <details>
 <summary><b>상세 보기</b></summary>
 <br/>
@@ -73,7 +73,7 @@
 
 </details>
 
-### Backend & Database
+### 💾 Backend & Database
 <details>
 <summary><b>상세 보기</b></summary>
 <br/>
@@ -87,7 +87,7 @@
 
 </details>
 
-### DevOps & Tools
+### ⚙️ DevOps & Tools
 <details>
 <summary><b>상세 보기</b></summary>
 <br/>
@@ -106,7 +106,7 @@
 
 ---
 
-## Currently Focusing On
+## 🎯 Currently Focusing On
 
 ```python
 career_focus = {
@@ -119,15 +119,15 @@ career_focus = {
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### AI & LLM
+### 🧠 AI & LLM
 | 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
 | **[LLM 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 포켓몬 도메인 대상 GraphRAG(Neo4j) 및 Vector RAG(pgvector) 기반 하이브리드 추천 파이프라인 설계<br>• LangGraph 멀티 에이전트 기반의 9-노드 팀 빌더 및 Self-Correction SQL 챗봇 구축<br>• RAG 성능 정량 평가(Faithfulness 90%, Relevancy 92% 달성) 및 실시간 턴제 배틀 시뮬레이터 개발 | LangGraph, Neo4j, PostgreSQL (pgvector), FastAPI, Streamlit, Groq |
 | **[ML 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker |
 
-### Mobile & Service
+### 📱 Mobile & Service
 | 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
 | **[개발자 & 디자이너 협업 App](https://github.com/EJ-pro/Collobo-Station)** | • 개발자와 디자이너 간의 프로젝트 매칭 및 효율적인 협업을 위한 모바일 플랫폼<br>• Firebase Firestore 기반의 실시간 데이터 공유 및 Firebase Authentication을 활용한 보안 인증 구현<br>• 바텀 네비게이션 및 리사이클러뷰 기반 커스텀 어댑터 설계를 통해 데이터 흐름 및 UI 접근성 최적화 | Kotlin, Android SDK, Firebase (Auth/Firestore), Gradle |
@@ -136,7 +136,7 @@ career_focus = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github.com/EJ-pro/EJ-pro/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" style="max-width: 100%; height: auto;" />
