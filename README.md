@@ -25,9 +25,7 @@
 
 </div>
 
----
-
-## 🛠️ Tech Stack
+<div align="center"><h2>🌟Tech Stack🌟</h2></div>
 
 <details open>
 <summary><b>LLM & Multi-Agent</b></summary>
@@ -102,7 +100,7 @@
 
 ---
 
-## Currently Focusing On
+<div align="center"><h2>🌟 Currently Focusing On 🌟</h2></div>
 
 ```python
 career_focus = {
@@ -115,7 +113,7 @@ career_focus = {
 
 ---
 
-## Projects
+<div align="center"><h2>🌟 Projects 🌟</h2></div>
 
 ### AI & LLM
 
@@ -133,13 +131,14 @@ career_focus = {
 
 ---
 
-## GitHub Stats
+<div align="center"><h2>🌟 GitHub Stats 🌟</h2></div>
 
 <div align="center">
   <img src="https://github.com/EJ-pro/EJ-pro/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" style="max-width: 100%; height: auto;" />
 </div>
 
-## 🏆 GitHub Trophies
+
+<div align="center"><h2>🏆 GitHub Trophies 🏆</h2></div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ej-pro&theme=dracula&row=1&column=6&no-frame=true&margin-w=8" />
