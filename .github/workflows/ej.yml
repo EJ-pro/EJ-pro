@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # 등록한 시크릿 토큰 사용
           token: ${{ secrets.EJ_TOKEN }}
@@ -45,17 +45,11 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
 
-          # 4. 즐겨찾기(Star) 및 내 대표 프로젝트(ChatFolio) 상단 강조
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_repositories: yes
-          # plugin_repositories_featured: EJ-pro/ChatFolio
-
-          # 5. 코딩 습관 및 시간대 분석 (최근 14일, 200커밋 기준)
+          # 4. 코딩 습관 및 시간대 분석 (최근 14일, 200커밋 기준)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
 
-          # 6. 내가 작성한 코드 총 라인 수 (Lines of code)
+          # 5. 내가 작성한 코드 총 라인 수 (Lines of code)
           plugin_lines: yes
