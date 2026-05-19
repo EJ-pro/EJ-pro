@@ -25,7 +25,8 @@
 
 </div>
 
-<div align="center"><h2>🌟Tech Stack🌟</h2></div>
+<div align="center"><h2>🌟Tech Stack🌟</h2></div><br>
+
 
 <details open>
 <summary><b>LLM & Multi-Agent</b></summary>
@@ -99,7 +100,8 @@
 </details>
 <br>
 
-<div align="center"><h2>🌟 Currently Focusing On 🌟</h2></div>
+<div align="center"><h2>🌟 Currently Focusing On 🌟</h2></div><br>
+
 
 ```python
 career_focus = {
@@ -111,7 +113,7 @@ career_focus = {
 ```
 
 <br>
-<div align="center"><h2>🌟 Projects 🌟</h2></div>
+<div align="center"><h2>🌟 Projects 🌟</h2></div><br>
 
 ### AI & LLM
 
@@ -128,14 +130,16 @@ career_focus = {
 | **[스마트 화분 App + 하드웨어 연동](https://github.com/EJ-pro/smartpot)**   | • 안드로이드 기반의 식물 성장 다이어리 및 맞춤형 관리 애플리케이션<br>• Kakao SDK를 연동한 OAuth 간편 로그인, 상점 기능 및 마이페이지 식물 목록 관리 기능 구현<br>• Android SDK 34 마이그레이션 및 Gradle 구성 최적화로 빌드 이슈 해결                                                | Java/Kotlin, Android SDK, Kakao SDK, Firebase, Gradle  |
 
 <br>
-<div align="center"><h2>🌟 GitHub Stats 🌟</h2></div>
+<div align="center"><h2>🌟 GitHub Stats 🌟</h2></div><br>
+
 
 <div align="center">
   <img src="https://github.com/EJ-pro/EJ-pro/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" style="max-width: 100%; height: auto;" />
 </div>
 
 
-<div align="center"><h2>🏆 GitHub Trophies 🏆</h2></div>
+<div align="center"><h2>🏆 GitHub Trophies 🏆</h2></div><br>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ej-pro&theme=dracula&row=1&column=6&no-frame=true&margin-w=8" />
