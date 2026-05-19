@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 아까 등록한 시크릿 토큰 사용
+          # 등록한 시크릿 토큰 사용
           token: ${{ secrets.EJ_TOKEN }}
           
           # 만들어질 파일 이름
@@ -24,8 +24,38 @@ jobs:
           # 표시할 기본 항목 설정 (헤더, 활동, 커뮤니티, 레포지토리, 메타데이터)
           base: header, activity, community, repositories, metadata
           
-          # 디자인 테마 (light, dark 등)
+          # 시간대 설정
           config_timezone: Asia/Seoul
 
+          # ==========================================
+          # 🌟 추가된 플러그인 목록
+          # ==========================================
+
+          # 1. 3D 입체 잔디 (반년치)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # 반년치 표시 (1년치를 보려면 full-year로 변경)
+          plugin_isocalendar_duration: half-year
+
+          # 2. 주력 사용 언어 통계 (html, css 제외)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+
+          # 3. 깃허브 업적 뱃지 모음
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+
+          # 4. 즐겨찾기(Star) 및 내 대표 프로젝트(ChatFolio) 상단 강조
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_featured: EJ-pro/ChatFolio
+
+          # 5. 코딩 습관 및 시간대 분석 (최근 14일, 200커밋 기준)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # 6. 내가 작성한 코드 총 라인 수 (Lines of code)
+          plugin_lines: yes
