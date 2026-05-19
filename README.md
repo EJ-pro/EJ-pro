@@ -156,4 +156,8 @@ career_focus = {
   <img src="https://github-profile-trophy.vercel.app/?username=ej-pro&theme=dracula&row=1&column=6&no-frame=true&margin-w=8" />
 </div>
 
----
+<br><br>
+
+<div align="center">
+  <img src="./footer.png?raw=true" width="100%" alt="Header Banner" />
+</div>
