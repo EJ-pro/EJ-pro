@@ -53,7 +53,7 @@ jobs:
 
           # 5. 코딩 습관 및 시간대 분석 (최근 14일, 200커밋 기준)
           plugin_habits: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
 
