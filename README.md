@@ -119,7 +119,7 @@ career_focus = {
 > 지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼<br>
 > <small>RAG 추천 파이프라인 · 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small><br>
 
-<small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL (pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
+<small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL(pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
 
 **[ML Project (KKBox 이탈율 분석)](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)**<br> — 음악 스트리밍 구독 이탈 예측 & 시뮬레이션 대시보드
 
@@ -135,7 +135,7 @@ career_focus = {
 > 개발자와 디자이너 간의 프로젝트 기반 매칭 및 협업 모바일 플랫폼<br>
 > <small>Firebase Auth 보안 인증 · Firestore 실시간 데이터 공유 · 바텀 네비게이션 및 리사이클러뷰 UI/UX 최적화</small><br>
 
-<small><code>Kotlin</code> <code>Android SDK</code> <code>Firebase (Auth/Firestore)</code> <code>Gradle</code></small><br><br>
+<small><code>Kotlin</code> <code>Android SDK</code> <code>Firebase(Auth/Firestore)</code> <code>Gradle</code></small><br><br>
 
 **[Mobile Project (Smart Pot)](https://github.com/EJ-pro/smartpot)**<br> — 식물 다이어리 & IoT 하드웨어 연동 안드로이드 앱
 
