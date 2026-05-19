@@ -36,10 +36,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7DF9FF?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logo=dgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7DF9FF?style=flat-square&logo=airbyte&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-333333?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-333333?style=flat-square&logo=databricks&logoColor=white)
 
 </details>
 
@@ -88,7 +88,7 @@
 <summary><b>⚙️ DevOps & Tools</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
