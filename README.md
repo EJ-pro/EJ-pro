@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works.;LLM+%7C+Multi-Agent+%7C+RAG+%7C+MCP;Android+Dev+→+AI+Engineer+in+progress.;SK+Networks+Family+AI+Camp+27th+🔥" />
-
-</div>
-
 <br/>
 
 <div align="center">
