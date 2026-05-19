@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=LEE%20JAE%20HEE&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Android%20Dev&descSize=18&descAlignY=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://github.com/EJ-pro/EJ-pro/blob/main/github_header.png?raw=true" width="100%" />
 
 </div>
 
@@ -144,8 +144,8 @@ current_focus = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/><br/>
-  <img src="github-metrics.svg" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ej-pro&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=bd93f9&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej-pro&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=ffffff" />
 </div>
 
 ---
@@ -169,7 +169,8 @@ current_focus = {
 <a href="mailto:hsshss2522@naver.com">
   <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </a>
-<br/>
+
+</div>
 
 ---
 
