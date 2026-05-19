@@ -16,7 +16,10 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
-          config_padding: 0, 8 + 11%
+          extras_css: |
+            footer {
+              padding-bottom: 60px !important;
+            }
 
           # 1. 3D 입체 잔디 (반년치)
           plugin_isocalendar: yes
