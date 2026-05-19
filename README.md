@@ -100,6 +100,8 @@ Android 서비스 개발을 하다 AI에 관심이 생겨 현재 AI · ML을 공
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ej-pro&theme=dracula&hide_border=true" height="170"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ej-pro&layout=compact&theme=dracula&hide_border=true"/>
+  <br/><br/>
+  <img src="github-metrics.svg" />
 </div>
 
 ---
