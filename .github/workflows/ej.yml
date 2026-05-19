@@ -49,7 +49,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_repositories: yes
-          plugin_repositories_featured: EJ-pro/ChatFolio
+          # plugin_repositories_featured: EJ-pro/ChatFolio
 
           # 5. 코딩 습관 및 시간대 분석 (최근 14일, 200커밋 기준)
           plugin_habits: yes
