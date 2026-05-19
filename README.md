@@ -126,13 +126,14 @@ career_focus = {
 |:---|:---|:---|
 | **SK AI Camp 최종 프로젝트** | • LangGraph와 MCP(Model Context Protocol)를 연동한 다중 에이전트(Multi-Agent) 기반 업무 자동화 파이프라인 구축<br>• 도메인 특화 지식 검색 및 의사결정을 위한 RAG 시스템 고도화 | LangGraph, MCP, RAG |
 | **[SK AI Camp 3차 팀 프로젝트](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** | • 지식 그래프(Neo4j)와 다중 에이전트를 결합한 GraphRAG 기반 맞춤형 추천·탐색 파이프라인 설계<br>• LLM 기반 어시스턴트(챗봇, AI 번역기) 및 풀스택 서비스 아키텍처 개발 | LangGraph, Neo4j (GraphRAG), FastAPI, Groq LLM |
-| **[SK AI Camp 2차 팀 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | 머신러닝 기반 데이터 분석 대시보드 개발 | Streamlit, Python, scikit-learn |
+| **[SK AI Camp 2차 팀 프로젝트](https://github.com/EJ-pro/SKN27-2nd-3TEAM_final)** | • 음악 스트리밍 플랫폼(KKBox) 데이터를 활용한 머신러닝 기반 사용자 구독 이탈(Churn) 예측 및 방지 전략 시뮬레이션 플랫폼<br>• Streamlit 및 Plotly를 활용하여 이탈 예측 대시보드(Action Board) 및 예방 시뮬레이터 구현<br>• Python 백엔드, MySQL DB 및 Docker 컨테이너 오케스트레이션 적용 | Python, Streamlit, MySQL, Docker |
 
 ### Mobile & Service
 | 프로젝트명 | 주요 내용 | 사용 기술 |
 |:---|:---|:---|
-| **[Collobo Station](https://github.com/EJ-pro/Collobo-Station)** | 개발자·디자이너 간의 효율적인 협업을 위한 매칭 플랫폼 | Kotlin, Android, Firebase |
-| **[Smart Pot](https://github.com/EJ-pro/smartpot)** | 실시간 센서 데이터를 활용한 IoT 스마트 화분 모니터링 서비스 | Java, Android, IoT, Firebase |
+| **[Collobo Station](https://github.com/EJ-pro/Collobo-Station)** | • 개발자와 디자이너 간의 프로젝트 매칭 및 효율적인 협업을 위한 모바일 플랫폼<br>• Firebase Firestore 기반의 실시간 데이터 공유 및 Firebase Authentication을 활용한 보안 인증 구현<br>• 바텀 네비게이션 및 리사이클러뷰 기반 커스텀 어댑터 설계를 통해 데이터 흐름 및 UI 접근성 최적화 | Kotlin, Android SDK, Firebase (Auth/Firestore), Gradle |
+| **[Smart Pot](https://github.com/EJ-pro/smartpot)** | • 안드로이드 기반의 식물 성장 다이어리 및 맞춤형 관리 애플리케이션<br>• Kakao SDK를 연동한 OAuth 간편 로그인, 상점 기능 및 마이페이지 식물 목록 관리 기능 구현<br>• Android SDK 34 마이그레이션 및 Gradle 구성 최적화로 빌드 이슈 해결 | Java/Kotlin, Android SDK, Kakao SDK, Firebase, Gradle |
+
 
 ---
 
