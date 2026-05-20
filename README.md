@@ -117,18 +117,13 @@ career_focus = {
 **[LLM Project (GitGraph)](https://github.com/EJ-pro/GitGraph)** - 깃허브 코드 관계망 시각화 + RAG 기반 AI 아키텍처 분석 및 옵시디언(Obsidian) Vault 이식 플랫폼
 
 ```text
-깃허브 리포지토리를 정적 분석하여 파일 간 종속성(Dependency)을 3D 그래프 맵으로 시각화하는 플랫폼
-LangGraph 기반의 Multi-Agent README 생성 엔진 · Mermaid 아키텍처 다이어그램 분석 · RAG 코드 챗봇 · Obsidian Vault 다운로드 기능 제공
+여기 작성해야해 잊지마.....
 ```
 <details>
 <summary><b>프로젝트 회고 - 대규모 동시성 최적화 및 멀티 에이전트 설계 경험 (클릭하여 펼치기)</b></summary>
 <br>
   
-> 단순히 파일 코드를 개별 조회하는 것을 넘어 코드베이스 전반의 관계 구조를 분석하고 지식화하는 데 초점을 맞추었습니다. 특히 수십 개의 소스 파일과 메타데이터 관계 데이터를 옵시디언 가상 볼트(Obsidian Vault) 마크다운으로 변환하여 로컬 메모리 스트림(BytesIO)을 통해 실시간으로 압축 제공하는 데이터 추출 흐름을 안전하게 설계했습니다.
-> 
-> 50인 이상의 대규모 동시 접속 환경을 가정한 성능 테스트를 거치며 시스템 병목을 직접 추적하고 해소했습니다. 기본 SQLAlchemy 커넥션 풀을 확장하여 동시 쿼리 병목을 해소하고, SQLite 기반인 Chroma DB의 스레드 충돌을 막기 위해 프로젝트 ID 단위 스레드 락(Thread Lock) 동기화 메커니즘을 설계했습니다. 또한 Redis 연결 장애 시 모든 요청이 지연되는 현상을 방지하는 Fail-Open 서킷 브레이커를 구현하여 백엔드 서비스의 고가용성을 확보했습니다.
-> 
-> 아울러 LangGraph 프레임워크 상에서 Analyzer, Router, Writer, Reviewer 역할을 가진 자가 피드백 루프 기반의 Multi-Agent README 생성 엔진을 구성하여 단일 프롬프트 모델의 할루시네이션 및 품질적 한계를 극복했습니다. 본 프로젝트를 통해 고부하 시나리오에서의 비동기/스레딩 설계 역량과 AI 에이전트 오케스트레이션을 깊이 다룰 수 있었습니다.
+> 여기 작성해야해 잊지마.....
 
 </details>
 <small><code>React</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>PostgreSQL(pgvector)</code> <code>Redis</code> <code>Docker</code> <code>Nginx</code></small><br><br>
@@ -136,13 +131,21 @@ LangGraph 기반의 Multi-Agent README 생성 엔진 · Mermaid 아키텍처 다
 **[LLM Project (너로 정했다! LLM)](https://github.com/EJ-pro/SKN27-3rd-3TEAM)** - 지식 그래프 + 다중 에이전트 하이브리드 RAG 추천 & 배틀 플랫폼
 
 ```text
-여기 작성해야해 잊지마.....
+지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼
+RAG 추천 파이프라인 · 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입
 ```
 <details>
 <summary><b>프로젝트 회고 - 외부 API 안정성 확보 및 데이터 파이프라인 튜닝 경험 (클릭하여 펼치기)</b></summary>
 <br>
 
-> 여기 작성해야해 잊지마.....
+> Agent 답변 품질 검증을 **RAGAS 평가 모델로 자동화**한 것이 이번 프로젝트의 핵심이었습니다.
+> AI 애플리케이션에서 Agent의 신뢰성을 정량적으로 측정하는 체계를 직접 구축해보며, 단순 구현을 넘어 **품질 보장**까지 고민하는 경험을 할 수 있었습니다.
+>
+> 또한 대용량 데이터 흐름 전반을 튜닝하며 프론트엔드·백엔드 연계, 외부 API 파이프라인의 실시간 안정성 확보까지 다뤘습니다.
+> 특히 Streamlit의 독특한 렌더링 라이프사이클을 제어하며 쿠키, iframe 보안 충돌, 무한 루프, 스레드 격리 문제를 현업 수준에서 해결할 수 있었습니다.
+> 파이프라인을 모듈별로 격리하고 스케줄러로 제어하는 데이터 엔지니어링 패턴도 깊게 익혔습니다.
+>
+> 이번 프로젝트를 통해 기능 구현을 넘어 AI 서비스의 품질을 직접 고민해볼 수 있었습니다. 단순 구현자가 아닌 엔지니어로서 한 걸음 나아간 것 같습니다.
 
 </details>
 <small><code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL(pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code></small><br><br>
