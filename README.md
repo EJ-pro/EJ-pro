@@ -114,6 +114,36 @@ career_focus = {
 
 ### AI & LLM
 
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="30%" valign="middle" style="border: none; padding-right: 20px;">
+      <img src="./메인페이지 1.png" alt="Project Thumbnail" style="width: 100%; border-radius: 8px;"/>
+    </td>
+    <td width="70%" valign="top" style="border: none;">
+      <p style="font-size: 18px; font-weight: bold; margin: 0 0 8px;"><a href="https://github.com/EJ-pro/SKN27-3rd-3TEAM">LLM Project (너로 정했다! LLM)</a></p>
+      <p><strong>지식 그래프 + 다중 에이전트 하이브리드 RAG 추천 &amp; 배틀 플랫폼</strong></p>
+      <blockquote>
+        지식 그래프와 다중 에이전트를 결합한 하이브리드 RAG 추천 및 배틀 시뮬레이션 플랫폼<br>
+        <small>RAG 추천 파이프라인 · 챗봇 · Groq 기반 배틀 시뮬레이터 · RAGAS 정량 평가 체계 도입</small>
+      </blockquote>
+      <div>
+        <code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL(pgvector)</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>RAGAS</code>
+      </div>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="2" style="border: none; padding-top: 16px;">
+      <details>
+        <summary><b>프로젝트 회고 — 외부 API 안정성 확보 및 데이터 파이프라인 튜닝 경험 (클릭하여 펼치기)</b></summary>
+        <br>
+        <p>Agent 답변 품질 검증을 <strong>RAGAS 평가 모델로 자동화</strong>한 것이 이번 프로젝트의 핵심이었습니다. AI 애플리케이션에서 Agent의 신뢰성을 정량적으로 측정하는 체계를 직접 구축해보며, 단순 구현을 넘어 <strong>품질 보장</strong>까지 고민하는 경험을 할 수 있었습니다.</p>
+        <p>또한 대용량 데이터 흐름 전반을 튜닝하며 프론트엔드·백엔드 연계, 외부 API 파이프라인의 실시간 안정성 확보까지 다뤘습니다. 특히 Streamlit의 독특한 렌더링 라이프사이클을 제어하며 쿠키, iframe 보안 충돌, 무한 루프, 스레드 격리 문제를 현업 수준에서 해결할 수 있었습니다. 파이프라인을 모듈별로 격리하고 스케줄러로 제어하는 데이터 엔지니어링 패턴도 깊게 익혔습니다.</p>
+        <p>이번 프로젝트를 통해 기능 구현을 넘어 AI 서비스의 품질을 직접 고민해볼 수 있었습니다. 단순 구현자가 아닌 엔지니어로서 한 걸음 나아간 것 같습니다.</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
 **[LLM Project (GitGraph)](https://github.com/EJ-pro/GitGraph)** - 깃허브 코드 관계망 시각화 + RAG 기반 AI 아키텍처 분석 및 옵시디언(Obsidian) Vault 이식 플랫폼
 
 ```text
